@@ -1,10 +1,32 @@
-### Hi, I'm Linus Manuel 🖖🏻👩🏻‍💻
-#### 🖥 I'm Web developer
+## Hello, I am Linus Manuel  
 
-#### ABOUT ME
-I'm Linus Manuel from Angola, IT student, I like to learn about new technologies and develop individual or group projects. I am currently studying web development.
+## 
 
+I am **Client side developer** from Angola, my native language is **Portuguese**, but I am improving my English everyday because, english is very important for my professional life.
 
-#### SKILLS AND EXPERIENCE
+## 
+ <div>
+  <a href="https://github.com/linusmanuel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linusmanuel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linusmanuel&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Linus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Linus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Linus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="Linus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Linus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
+  <img align="center" alt="Linus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-HTML / CSS / Java script / Python
+  <img align="right" width="180px" alt="Linus-yoda" src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/joao-lino-adao-manuel-643bb31ba/?originalSubdomain=ao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCUpg4J0x1FD2WZkRj3TBRXQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/linus.manuel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailtolinusmannuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>
