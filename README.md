@@ -1,7 +1,7 @@
 ## Hello, I am Linus Manuel 💻
 
 
-I am **Client side developer** from Angola, my native language is **Portuguese**, but I am improving my English everyday because, english is very important for my professional life.
+I am **Front-End developer** from Angola, my native language is **Portuguese**, but I am improving my English everyday because, english is very important for my professional life.
 
 ## 
  <div>
