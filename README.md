@@ -6,8 +6,8 @@ I am **Front-End developer** from Angola, my native language is **Portuguese**, 
 ## 
  <div>
   <a href="https://github.com/linusmanuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linusmanuel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linusmanuel&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=linusmanuel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linusmanuel&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
