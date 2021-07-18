@@ -1,7 +1,7 @@
 ## Hello Dear Sir! I am Linus Manuel 💻
 
 
-I am **Front-End developer** from Angola, my native language is **Portuguese**, but I am improving my English everyday because, english is very important for my professional life. I am currently focused on html, css and javascript. With extensive experience in **Graphic Design.** I decided to combine these knowledge and *become an exceptional front-end developer.*
+I am **Front-End developer** from Angola, my native language is **Portuguese**, but I am improving my **English** everyday because, english is very important for my professional life. I am currently focused on html, css and javascript. With extensive experience in **Graphic Design.** I decided to combine these knowledge and *become an exceptional front-end developer.*
 
 ## 
  <div>
