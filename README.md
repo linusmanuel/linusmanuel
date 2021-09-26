@@ -17,7 +17,8 @@ I am **Front-End developer** from Angola, my native language is **Portuguese**, 
   <!--<img align="center" alt="Linus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Linus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
 
-  <img align="right" width="180px" alt="Linus-yoda" src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif">
+  <img align="right" width="200px" alt="Linus-front-end gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47cfxovn4m81dgq2g32svgnqr8yy45f7y25vdyj4yz&rid=giphy.gif&ct=g">
+ 
 </div>
   
   ##
