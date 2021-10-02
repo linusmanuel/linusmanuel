@@ -13,7 +13,7 @@ I am **Front-End developer** from Angola, my native language is **Portuguese**, 
 <div style="display: inline_block"><br>
   <img align="center" alt="Linus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Linus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Linus-Js" height="30" width="30" src="https://user-images.githubusercontent.com/79695824/135732932-aa17529f-1268-40fa-a950-eb5f93f5c1b4.jpg">
+  <img align="center" alt="Linus-Js" height="30" width="30" src="https://user-images.githubusercontent.com/79695824/135732932-aa17529f-1268-40fa-a950-eb5f93f5c1b4.jpg"> &nbsp;
  <img align="center" alt="Linus-sass" height="30" width="30" src="https://user-images.githubusercontent.com/79695824/135732501-98a1d9ff-ad08-4cbe-9a5b-7c9098f33ca5.png"> &nbsp;
  <img align="center" alt="Linus-scrum" height="30" width="30" src="https://user-images.githubusercontent.com/79695824/135732790-62ed129c-6df8-4875-82db-2516d160e475.png">
   <!--<img align="center" alt="Linus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
