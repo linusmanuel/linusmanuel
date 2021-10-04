@@ -23,7 +23,6 @@ Those are the technologies that I'm learning and using to become a Web Front-End
   <!--<img align="center" alt="Linus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Linus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
 
-  <img align="right" width="200px" alt="Linus-front-end gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47cfxovn4m81dgq2g32svgnqr8yy45f7y25vdyj4yz&rid=giphy.gif&ct=g">
 </div>
  
  ### __LANGUAGES__
@@ -31,6 +30,7 @@ Those are the technologies that I'm learning and using to become a Web Front-End
 <div style="display: inline-block">I really love learning new languages and experiencing new cultures.<br><br>
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
+  <img align="right" width="200px" alt="Linus-front-end gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47cfxovn4m81dgq2g32svgnqr8yy45f7y25vdyj4yz&rid=giphy.gif&ct=g">
 </div>
 
   ##
