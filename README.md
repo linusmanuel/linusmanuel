@@ -4,10 +4,10 @@
 
 <h4 align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/arthurspk/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/seixasqlc/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/linusmanuel)](https://www.linkedin.com/in/joao-lino-adao-manuel-643bb31ba/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUpg4J0x1FD2WZkRj3TBRXQ)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/linusmanuel)](https://www.instagram.com/linus.manuel/)
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/linus.manuel)](https://www.facebook.com/seixasqlc/)
 
 </h4>
 
@@ -27,16 +27,13 @@ I have knowledge in: HTML, CSS, SASS, JavaScript, React, Python, MySQL, GIT, Win
       <h3>Other places you can find me</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/manotoquinho">Follow me on Twitter</a>
+          📺 <a href="https://www.youtube.com/channel/UCUpg4J0x1FD2WZkRj3TBRXQg">Subscribe on Youtube</a>
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
+          📷 <a href="https://www.instagram.com/linus.manuel/">Follow me on instagram</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/guiadevbrasil/">Follow me on instagram</a>
-        </li>
-        <li>
-          📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
+          📬 <a href=mailto:linusmannuel@gmail.com>Contact-me on email</a>
         </li>
       </ul>
     </td>
