@@ -27,7 +27,7 @@ I have knowledge in: HTML, CSS, SASS, JavaScript, React, Python, MySQL, GIT, Win
       <h3>Other places you can find me</h3>
       <ul>
         <li>
-          📺 <a href="https://www.youtube.com/channel/UCUpg4J0x1FD2WZkRj3TBRXQg">Subscribe on Youtube</a>
+          📺 <a href="https://www.youtube.com/channel/UCUpg4J0x1FD2WZkRj3TBRXQ">Subscribe on Youtube</a>
         </li>
         <li>
           📷 <a href="https://www.instagram.com/linus.manuel/">Follow me on instagram</a>
