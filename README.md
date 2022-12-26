@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/linusmanuel)](https://www.linkedin.com/in/joao-lino-adao-manuel-643bb31ba/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUpg4J0x1FD2WZkRj3TBRXQ)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/linusmanuel)](https://www.instagram.com/linus.manuel/)
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/linus.manuel)](https://www.facebook.com/seixasqlc/)
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/linus.manuel)](https://www.facebook.com/linusmannuel/)
 
 </h4>
 
