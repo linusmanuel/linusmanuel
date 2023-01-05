@@ -33,7 +33,7 @@ I have knowledge in: HTML, CSS, SASS, JavaScript, React, Python, MySQL, GIT, AGI
           📷 <a href="https://www.instagram.com/linus.manuel/">Follow me on instagram</a>
         </li>
         <li>
-          📬 <a href=mailto:linusmannuel@gmail.com>Contact-me on email</a>
+          📬 <a href=mailto:linusmannuel@gmail.com>Contact-me on e-mail</a>
         </li>
       </ul>
     </td>
