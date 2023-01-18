@@ -13,7 +13,7 @@
 
 I'm passionate about technology! I had my first contact with computers when I was 9 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to.
 
-I have knowledge in: HTML, CSS, SASS, Bootstrap, JavaScript, React, Python, MySQL, GIT, AGILE SCRUM, HTTP, Windows.
+I have knowledge in: HTML, CSS, SASS, Bootstrap, JavaScript, TypeScripe React, Python, MySQL, GIT, AGILE SCRUM, HTTP, Windows.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
