@@ -1,5 +1,3 @@
-![banner (1)](https://user-images.githubusercontent.com/79695824/209449759-6caeec20-4ead-43da-8689-46c74ca3485e.png)
-
 <h4 align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/linusmanuel)](https://www.linkedin.com/in/joao-lino-adao-manuel-643bb31ba/)
