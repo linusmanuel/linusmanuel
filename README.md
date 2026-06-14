@@ -7,9 +7,14 @@
 
 </h4>
 
-I'm passionate about technology! I had my first contact with computers when I was 9 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to.
+I'm a Software Engineer from Angola with 4+ years of experience building backend systems, APIs, integrations, e-commerce solutions, and workflow automations for international clients.
+My passion for technology started when I was 9 years old, and since then I've been driven by a simple idea: using technology to solve real-world problems and create opportunities for people.
 
-I have knowledge in: HTML, CSS, SASS, Bootstrap, JavaScript, TypeScript React, Python, MySQL, GIT, AGILE SCRUM, HTTP, Windows.
+🛠️ Tech Stack:
+
+Go • Laravel • PHP • JavaScript  • Node.js • Python • Shopify • WordPress • MySQL • REST APIs • Webhooks • n8n • Git • Linux • Docker
+
+🌍 Open to remote opportunities, collaborations, and innovative projects.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
